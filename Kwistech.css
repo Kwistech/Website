@@ -12,6 +12,7 @@
   letter-spacing: 10px;
   font-size: 6rem;
   width: 910px;
+  animation-duration: 500ms;
   margin: 41px auto 0;
 }
 
@@ -21,6 +22,7 @@
   font-size: 1.25rem;
   font-weight: 300;
   width: 910px;
+  animation-duration: 1000ms;
   margin: 13px auto 60px;
 }
 
