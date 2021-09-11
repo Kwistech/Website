@@ -11,9 +11,9 @@
   text-transform: uppercase;
   letter-spacing: 10px;
   font-size: 6rem;
-  width: 910px;
   animation-duration: 500ms;
-  margin: 41px auto 0;
+  width: 910px;
+  margin: 25px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -23,7 +23,7 @@
   font-weight: 300;
   width: 910px;
   animation-duration: 1000ms;
-  margin: 13px auto 60px;
+  margin: 29px auto 60px;
 }
 
 @media (max-width: 1199px) {
