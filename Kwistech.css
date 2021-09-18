@@ -227,7 +227,6 @@
   .u-section-2 .u-repeater-1 {
     grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
     min-height: 343px;
-    grid-auto-columns: calc(33.3333% - 6.66667px);
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -293,9 +292,8 @@
   }
 
   .u-section-2 .u-repeater-1 {
-    grid-template-columns: repeat(2, calc(50% - 5.0000025px));
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
     min-height: 301px;
-    grid-auto-columns: calc(50% - 5.0000025px);
   }
 
   .u-section-2 .u-text-1 {
